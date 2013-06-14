@@ -1,0 +1,105 @@
+
+body{
+	margin-right: 50px;
+	margin-left: 50px;
+}
+
+#buttonDelete{
+	
+	display: inline-block;
+}
+
+#buttonAdd{
+	
+	display: inline-block;
+}
+
+.formAddBook{
+	min-width:130px;
+	max-width:500px;
+	display: inline-block;
+}
+
+.formAddUser{
+	min-width:130px;
+	max-width:500px;
+	display: inline-block;
+}
+
+.formAddAuthor{
+	min-width:130px;
+	max-width:500px;
+	display: inline-block;
+	margin-bottom: 10px;
+}
+
+.formAddCategory{
+	min-width:150px;
+	max-width:500px;
+	display: inline-block;
+}
+
+
+.formAddEditor{
+	min-width:130px;
+	max-width:500px;
+	display: inline-block;
+}
+
+
+.formDelete{
+	min-width:300px;
+	max-width:500px;
+	display: inline-block;
+	
+}
+
+.headerAdd{
+  margin-left: 40px;
+ }
+ 
+ #button_homeAddAuthor{
+ 	margin-left:180px;
+ 	min-width: 230px;
+ 	margin-bottom: 10px;
+ }
+ 
+  
+ #button_homeAddBook{
+ 	margin-left:180px;
+ 	min-width: 230px;
+ 	margin-bottom: 10px;
+ }
+
+  
+ #button_homeAddEditor{
+ 	margin-left:180px;
+ 	min-width: 230px;
+ 	margin-bottom: 10px;
+ }
+ 
+  
+ #button_homeAddUser{
+ 	margin-left:180px;
+ 	min-width: 230px;
+ 	margin-bottom: 10px;
+ }
+ 
+  
+ #button_homeAddCategory{
+ 	margin-left:180px;
+ 	min-width: 248px;
+ 	margin-bottom: 10px;
+ }
+ 
+ #formAddAuthor{
+ 	margin-bottom: 0px;
+ }
+ 
+ #button_AddBook{
+   min-width: 230px;
+ }
+ 
+ #button_AddUser{
+ 	min-width: 230px;
+ }
